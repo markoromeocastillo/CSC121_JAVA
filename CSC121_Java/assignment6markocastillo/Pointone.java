@@ -1,4 +1,4 @@
-package assignment6markocastillo;
+
 
 public class Pointone
 {

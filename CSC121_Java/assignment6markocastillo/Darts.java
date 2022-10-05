@@ -1,4 +1,4 @@
-package assignment6markocastillo;
+
 
 // simpleShapes.java: Display simple shapes and text on aJPanel
 import javax.swing.JFrame;

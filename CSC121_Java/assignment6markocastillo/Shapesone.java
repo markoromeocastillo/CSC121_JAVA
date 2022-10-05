@@ -1,4 +1,4 @@
-package assignment6markocastillo;
+
 
 import javax.swing.JComponent;
 import java.awt.Graphics;
